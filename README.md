@@ -49,6 +49,7 @@ HIRINGSYNC AI combines:
 
 into a cinematic cyberpunk-inspired dashboard experience.
 
+Link : https://arideepcodes.github.io/HIRINGSYNC-AI/
 ---
 
 # 🚀 Core Features
